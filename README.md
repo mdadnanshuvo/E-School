@@ -1,1 +1,2 @@
-# E-School is an ed-tech site with all possible solutions created using HTML,CSS,Javascript, and PHP
+# E-School, an Ed-Tech Site
+E-School,refers to the use of technology to enhance and facilitate teaching,learning and educational outcomes. The project was done using html,css,javascript and php.
